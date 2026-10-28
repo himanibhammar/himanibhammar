@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 48" width="156" height="48" role="img" aria-label="Portfolio">
-  <title>Portfolio</title>
-  <rect width="156" height="48" rx="24" fill="#243B64"/>
-  <rect x="1" y="1" width="154" height="46" rx="23" fill="none" stroke="#B8B8F5" stroke-width="1.5"/>
-  <g transform="translate(20 12)"><path d="M12 1 Q12 12 23 12 Q12 12 12 23 Q12 12 1 12 Q12 12 12 1Z" fill="#C5E3F6"/></g>
-  <text x="54" y="30" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" textLength="85" lengthAdjust="spacing">Portfolio</text>
-</svg>
