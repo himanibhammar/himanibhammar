@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 98" width="76" height="98" role="img" aria-labelledby="t"><title id="t">email</title>
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C5E3F6"/><stop offset="1" stop-color="#B8B8F5"/></linearGradient></defs>
-<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3.8s" begin="-3.30s" repeatCount="indefinite"/>
-<circle cx="38" cy="38" r="29" fill="url(#g)"/><ellipse cx="29" cy="24" rx="10" ry="5" fill="#FFFFFF" opacity=".5" transform="rotate(-25 29 24)"/>
-<g fill="none" stroke="#243B64" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><rect x="25" y="28" width="26" height="19" rx="3.5"/><path d="M26 30l12 9 12-9"/></g></g>
-<text x="38" y="92" text-anchor="middle" font-family="'SFMono-Regular',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#7F8CA6">email</text></svg>

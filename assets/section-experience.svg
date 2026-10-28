@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 76" width="900" height="76" role="img" aria-label="Experience and leadership">
+  <title>Experience and leadership</title>
+  <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#DCEBFF"/><stop offset=".6" stop-color="#C5E3F6"/><stop offset="1" stop-color="#B8B8F5"/></linearGradient>
+  <linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".7"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+  <clipPath id="r"><rect width="900" height="76" rx="22"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="900" height="76" fill="url(#b)"/>
+    <rect x="-200" y="0" width="160" height="76" fill="url(#s)" transform="skewX(-20)"><animate attributeName="x" values="-300;1100" dur="7s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x=".75" y=".75" width="898.5" height="74.5" rx="21.5" fill="none" stroke="#B8B8F5" stroke-width="1.5"/>
+  <g transform="translate(26 14) scale(.3)">
+  <defs>
+    <linearGradient id="bnsecg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E4F2FC"/><stop offset="1" stop-color="#C5E3F6"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="106" cy="146" rx="56" ry="6" fill="#243B64" opacity=".12">
+    <animate attributeName="rx" values="56;48;56" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".12;.07;.12" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+  <g>
+    
+    <circle cx="62" cy="88" r="34" fill="#8FBCE3" stroke="#8FBCE3" stroke-width="7"/><circle cx="102" cy="62" r="46" fill="#8FBCE3" stroke="#8FBCE3" stroke-width="7"/><circle cx="146" cy="84" r="36" fill="#8FBCE3" stroke="#8FBCE3" stroke-width="7"/><rect x="30" y="86" width="152" height="42" rx="21" fill="#8FBCE3" stroke="#8FBCE3" stroke-width="7"/>
+    <circle cx="62" cy="88" r="34" fill="url(#bnsecg)"/><circle cx="102" cy="62" r="46" fill="url(#bnsecg)"/><circle cx="146" cy="84" r="36" fill="url(#bnsecg)"/><rect x="30" y="86" width="152" height="42" rx="21" fill="url(#bnsecg)"/>
+    <path d="M78 52 Q92 40 110 42" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" fill="none" opacity=".8"/>
+    <ellipse cx="86" cy="98" rx="5" ry="6.2" fill="#243B64"/><ellipse cx="124" cy="98" rx="5" ry="6.2" fill="#243B64"/>
+    <circle cx="88" cy="95.5" r="1.8" fill="#FFFFFF"/><circle cx="126" cy="95.5" r="1.8" fill="#FFFFFF"/>
+    <ellipse cx="72" cy="110" rx="8" ry="5" fill="#B8B8F5" opacity=".7"/><ellipse cx="138" cy="110" rx="8" ry="5" fill="#B8B8F5" opacity=".7"/>
+    <path d="M97 108 Q105 117 113 108" stroke="#243B64" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="2.2s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(30 40)"><path d="M0,-9 Q0,0 9,0 Q0,0 0,9 Q0,0 -9,0 Q0,0 0,-9Z" fill="#FFFFFF" stroke="#8FBCE3" stroke-width="0.8"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.6s" begin="0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.7;1.15;0.7" dur="2.6s" begin="0s" repeatCount="indefinite"/></path></g>
+  <g transform="translate(176 30)"><path d="M0,-7 Q0,0 7,0 Q0,0 0,7 Q0,0 -7,0 Q0,0 0,-7Z" fill="#FFFFFF" stroke="#8FBCE3" stroke-width="0.8"><animate attributeName="opacity" values="0.25;1;0.25" dur="3.2s" begin="0.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.7;1.15;0.7" dur="3.2s" begin="0.6s" repeatCount="indefinite"/></path></g>
+  <g transform="translate(190 96)"><path d="M0,-6 Q0,0 6,0 Q0,0 0,6 Q0,0 -6,0 Q0,0 0,-6Z" fill="#FFFFFF" stroke="#8FBCE3" stroke-width="0.8"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.9s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.7;1.15;0.7" dur="2.9s" begin="1.1s" repeatCount="indefinite"/></path></g>
+  <g transform="translate(18 92)"><polygon points="0.00,-8.00 2.12,-2.91 7.61,-2.47 3.42,1.11 4.70,6.47 0.00,3.60 -4.70,6.47 -3.42,1.11 -7.61,-2.47 -2.12,-2.91" fill="#B8B8F5" stroke="#FFFFFF" stroke-width="0.8" stroke-linejoin="round"><animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s" begin="0.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="rotate" values="-10;10;-10" dur="5.1s" begin="0.2s" repeatCount="indefinite"/></polygon></g>
+  <g transform="translate(160 8)"><polygon points="0.00,-7.00 1.85,-2.55 6.66,-2.16 3.00,0.97 4.11,5.66 0.00,3.15 -4.11,5.66 -3.00,0.97 -6.66,-2.16 -1.85,-2.55" fill="#B8B8F5" stroke="#FFFFFF" stroke-width="0.8" stroke-linejoin="round"><animate attributeName="opacity" values="0.55;1;0.55" dur="3.8s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="rotate" values="-10;10;-10" dur="5.699999999999999s" begin="0.9s" repeatCount="indefinite"/></polygon></g>
+  <g transform="translate(48 14)"><polygon points="0.00,-5.00 1.32,-1.82 4.76,-1.55 2.14,0.70 2.94,4.05 0.00,2.25 -2.94,4.05 -2.14,0.70 -4.76,-1.55 -1.32,-1.82" fill="#B8B8F5" stroke="#FFFFFF" stroke-width="0.8" stroke-linejoin="round"><animate attributeName="opacity" values="0.55;1;0.55" dur="3.0s" begin="1.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="rotate" values="-10;10;-10" dur="4.5s" begin="1.4s" repeatCount="indefinite"/></polygon></g>
+</g>
+  <text x="100" y="37" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="800" fill="#243B64" textLength="418.5" lengthAdjust="spacing">Experience &amp; leadership</text>
+  <text x="101" y="60" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#4A6290">// where I've built, and who I've organized with</text>
+  <g transform="translate(840 24)"><path d="M0,-8 Q0,0 8,0 Q0,0 0,8 Q0,0 -8,0 Q0,0 0,-8Z" fill="#FFFFFF"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.8s" begin="0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.7;1.15;0.7" dur="2.8s" begin="0s" repeatCount="indefinite"/></path></g><g transform="translate(866 50)"><polygon points="0.00,-7.00 1.85,-2.55 6.66,-2.16 3.00,0.97 4.11,5.66 0.00,3.15 -4.11,5.66 -3.00,0.97 -6.66,-2.16 -1.85,-2.55" fill="#6F7BE0" stroke="#FFFFFF" stroke-width="0.8" stroke-linejoin="round"><animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s" begin="0.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="rotate" values="-10;10;-10" dur="5.1s" begin="0.5s" repeatCount="indefinite"/></polygon></g><g transform="translate(800 52)"><path d="M0,-5 Q0,0 5,0 Q0,0 0,5 Q0,0 -5,0 Q0,0 0,-5Z" fill="#FFFFFF"><animate attributeName="opacity" values="0.25;1;0.25" dur="3.1s" begin="1.0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.7;1.15;0.7" dur="3.1s" begin="1.0s" repeatCount="indefinite"/></path></g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label="DevHive 2.0 — next.js · typescript · django · supabase · nlp">
+  <title>DevHive 2.0</title>
+  <defs><linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DCEBFF"/><stop offset=".55" stop-color="#C5E3F6"/><stop offset="1" stop-color="#B8B8F5"/></linearGradient>
+  <clipPath id="r"><rect width="900" height="120" rx="24"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="900" height="120" fill="url(#p)"/>
+    <g opacity=".35"><g><animateTransform attributeName="transform" type="translate" values="-20 0;20 0;-20 0" dur="30s" repeatCount="indefinite"/>
+      <ellipse cx="700" cy="104" rx="90" ry="22" fill="#FFFFFF"/><circle cx="660" cy="86" r="30" fill="#FFFFFF"/><circle cx="720" cy="76" r="38" fill="#FFFFFF"/></g></g>
+    <text x="22" y="98" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="80" font-weight="900" fill="#FFFFFF" opacity=".6">03</text>
+  </g>
+  <rect x=".75" y=".75" width="898.5" height="118.5" rx="23.25" fill="none" stroke="#B8B8F5" stroke-width="1.5"/>
+  <text x="140" y="58.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" fill="#243B64" textLength="209" lengthAdjust="spacing">DevHive 2.0</text>
+  <text x="141" y="86.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#4A6290">next.js · typescript · django · supabase · nlp</text>
+  <rect x="694.8" y="70" width="185.20000000000002" height="30" rx="15" fill="#243B64"/>
+  <text x="787.4" y="90" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13.5" fill="#C5E3F6" textLength="148" lengthAdjust="spacing">AI · COLLABORATION</text>
+  <g transform="translate(668.8 85)"><path d="M0,-8 Q0,0 8,0 Q0,0 0,8 Q0,0 -8,0 Q0,0 0,-8Z" fill="#FFFFFF"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.8s" begin="0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.7;1.15;0.7" dur="2.8s" begin="0s" repeatCount="indefinite"/></path></g><g transform="translate(868 28)"><polygon points="0.00,-7.00 1.85,-2.55 6.66,-2.16 3.00,0.97 4.11,5.66 0.00,3.15 -4.11,5.66 -3.00,0.97 -6.66,-2.16 -1.85,-2.55" fill="#6F7BE0" stroke="#FFFFFF" stroke-width="0.8" stroke-linejoin="round"><animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="rotate" values="-10;10;-10" dur="5.1s" begin="0.4s" repeatCount="indefinite"/></polygon></g>
+</svg>
